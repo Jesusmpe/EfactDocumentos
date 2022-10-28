@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="cnxSRVSAP"
+  DTS:DTSID="{7B6E2B41-09B6-4F07-BCD6-BF68813CB5D5}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=SRV-SAP;Initial Catalog=INT_Tawa_SBO;Provider=SQLNCLI11.1;Integrated Security=SSPI;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
